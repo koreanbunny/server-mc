@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "688899c4a0e83677935a8358fbab21ac"
+	name: "koreanbunny#688899c4"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

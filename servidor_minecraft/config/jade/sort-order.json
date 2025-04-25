@@ -2,6 +2,9 @@
   "alekiships:brewing_stand": null,
   "alekiships:furnace": null,
   "alekiships:jukebox": null,
+  "apotheosis:adventure": null,
+  "apotheosis:ench": null,
+  "apotheosis:spawner": null,
   "jade:object_name": null,
   "minecraft:animal_owner": null,
   "minecraft:beehive": null,
@@ -21,5 +24,15 @@
   "minecraft:potion_effects": null,
   "minecraft:progress": null,
   "minecraft:redstone": null,
-  "minecraft:zombie_villager": null
+  "minecraft:zombie_villager": null,
+  "reliquary:altar": null,
+  "reliquary:mortar": null,
+  "theurgy:mercury_flux": null,
+  "toms_trading_network:vending_machine": null,
+  "vampirism:alchemy_table": null,
+  "vampirism:garlic_beacon": null,
+  "vampirism:pedestal_charging": null,
+  "vampirism:player_faction": null,
+  "vampirism:potion_table": null,
+  "vampirism:totem": null
 }
